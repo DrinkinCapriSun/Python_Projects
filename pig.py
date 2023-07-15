@@ -1,3 +1,4 @@
+#THIS IS NOT MADE BY MYSELF, I JUST DID SOME MODIFICATIONS TO LEARN!!!
 import random 
 
 #Function of roll
